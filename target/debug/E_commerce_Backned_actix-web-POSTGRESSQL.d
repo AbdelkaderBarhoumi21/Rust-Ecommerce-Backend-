@@ -1,0 +1,1 @@
+C:\Rust\ Projects\project\E_commerce_Backned_actix-web-POSTGRESSQL\target\debug\E_commerce_Backned_actix-web-POSTGRESSQL.exe: C:\Rust\ Projects\project\E_commerce_Backned_actix-web-POSTGRESSQL\src\main.rs
